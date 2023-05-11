@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Emanuel Leiva</h1>
 <h3 align="center">Estudiante autodidacta enfocado en el desarrollo de aplicaciones web y móviles con React y React Native, con una mentalidad de aprendizaje constante y colaboración en equipo.</h3>
 
-- 🌱 I’m currently learning **React, Js, Astro y otros..**
+- 🌱 actualmente estoy aprendiendo **React, Js, Astro y otros..**
 
 - 📫 contáctame **leiva92emanuel@gmail.com**
 
